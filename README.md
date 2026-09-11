@@ -40,8 +40,15 @@ StringMatchingApplication/
 │
 ├── DocMatching.java
 │
+├── image/
+│   └── img1.png
+│
 └── corpus/
     ├── doc1.txt
     ├── doc2.txt
     ├── doc3.txt
     └── ...
+
+## Sample Output
+
+![String Matching Application Output](image/img1.png)
